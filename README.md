@@ -11,7 +11,7 @@ A 4-key macropad + rotary encoder + OLED + 6x addressable RGB, built on a Seeed 
 
 ## Overview
 
-**Nouveau Pad** is a compact hackpad-class macropad designed around the Seeed XIAO RP2040. It combines 4 mechanical keys, a rotary encoder with push function, a 0.91" 128×32 I2C OLED for status/layer display, and a 6-LED SK6812 MINI addressable RGB strip for backlighting/feedback — all on a single 2-layer PCB inside the Hackpad size and component limits.
+**Nouveau Pad** is a compact macropad designed around the Seeed XIAO RP2040. It combines  4 mechanical keys, a rotary encoder with push function, a 0.91" 128×32 I2C OLED, and a 6-LED SK6812 MINI addressable RGB strip and can be very usefull >:)
 
 ## Features
 
@@ -35,7 +35,7 @@ A 4-key macropad + rotary encoder + OLED + 6x addressable RGB, built on a Seeed 
 | LEDs | ≤ 16 | 
 | Case | 3D printed only |
 
-## Images
+## PCB Schematics
  <img width="1229" height="842" alt="PCBV333" src="https://github.com/user-attachments/assets/25c86581-de1b-4869-8d85-eb1fb19ad5aa" /> 
  <img width="1068" height="769" alt="image" src="https://github.com/user-attachments/assets/ce7def84-a32c-44db-a2b4-a9a3448e7165" />
  <img width="1049" height="810" alt="SCHEMATICS" src="https://github.com/user-attachments/assets/5dff3d8b-6fed-48a2-8cf9-0e022569f28f" />

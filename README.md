@@ -11,7 +11,8 @@ A 4-key macropad + rotary encoder + OLED + 6x addressable RGB, built on a Seeed 
 
 ## Overview
 
-**Nouveau Pad** is a compact macropad designed around the Seeed XIAO RP2040. It combines  4 mechanical keys, a rotary encoder with push function, a 0.91" 128×32 I2C OLED, and a 6-LED SK6812 MINI addressable RGB strip and can be very usefull >:)
+**Nouveau Pad** is a compact macropad designed around the Seeed XIAO RP2040. It combines  4 mechanical keys, a rotary encoder with push function, a 0.91" 128×32 I2C OLED, and a 6-LED SK6812 MINI addressable RGB strip and can be very usefull >:) 
+**Project link** : https://stardance.hackclub.com/projects/39690
 
 ## Features
 
@@ -22,18 +23,6 @@ A 4-key macropad + rotary encoder + OLED + 6x addressable RGB, built on a Seeed 
 - **Seeed XIAO RP2040** microcontroller 
 - 2-layer PCB, single USB-C connector, multi-part 3D-printed enclosure (black color scheme with a viewing window)
 
-## Hardware Specs (Hackpad compliance)
-
-| Requirement | Limit |
-|---|---|
-| Microcontroller | Seeed XIAO RP2040 (THT) | 
-| PCB size | ≤ 100 × 100 mm |
-| PCB layers | 2 layers |
-| Total inputs | ≤ 16 | 
-| Encoders | ≤ 2 |
-| OLED | ≤ 1 |
-| LEDs | ≤ 16 | 
-| Case | 3D printed only |
 
 ## PCB Schematics
  <img width="1229" height="842" alt="PCBV333" src="https://github.com/user-attachments/assets/25c86581-de1b-4869-8d85-eb1fb19ad5aa" /> 
@@ -51,23 +40,6 @@ A 4-key macropad + rotary encoder + OLED + 6x addressable RGB, built on a Seeed 
 4x white blank DSA keycaps
 4x M3 heatset inserts
 4x M3 screws
-
-## Pinout
-
-| XIAO RP2040 Pin | Function | Connected To |
-|---|---|---|
-| D0 / A0 | GPIO | SW1 |
-| D1 / A1 | GPIO | SW2 |
-| D2 / A2 | GPIO | SW3 |
-| D3 / A3 | GPIO | SW4 |
-| D4 / A4 (SDA) | I2C SDA | Encoder A / OLED SDA |
-| D5 / A5 (SCL) | I2C SCL | Encoder B / OLED SCL |
-| D6 (TX) | GPIO | Encoder push (S1) |
-| D10 (MOSI) | GPIO | RGB chain DIN (D1→D6) |
-| 3V3 | Power | OLED VCC, LED VDD |
-| GND | Ground | Common ground |
-
-*(Cross-check against `pcb/nouveaupad.kicad_sch` before flashing — SDA/SCL are shared between the OLED and the encoder per the schematic.)*
 
 ## Firmware
 
@@ -118,3 +90,4 @@ This project is released under the MIT License — see [LICENSE](LICENSE).
 - MX switch / XIAO / SK6812 footprints from the Hackpad KiCad starter library
 - Designed by [iloveadrenaline](https://github.com/iloveadrenaline)
 - The KMK software was made with minimal use with Antrophic Claude
+  Peace out

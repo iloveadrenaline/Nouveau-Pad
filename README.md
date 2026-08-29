@@ -15,25 +15,25 @@ A 4-key macropad + rotary encoder + OLED + 6x addressable RGB, built on a Seeed 
 
 ## Features
 
-- **4x** mechanical switches (hot-swappable footprint, `SW_Push`), individually wired to GPIO
-- **1x** rotary encoder w/ push switch (EC11-style, `RotaryEncoder_Switch_MP`) — great for volume/scroll/zoom
-- **1x** 0.91" 128×32 I2C OLED display (`SSD1306`-class) for layer/status feedback
-- **6x** SK6812 MINI addressable RGB LEDs, daisy-chained off a single data pin
-- **Seeed XIAO RP2040** microcontroller (through-hole mount, per Hackpad spec)
-- 2-layer PCB, single USB-C connector, multi-part 3D-printed enclosure (black/red color scheme with a viewing window)
+- **4x** mechanical switches (hot-swappable footprint, `SW_Push`)
+- **1x** rotary encoder w/ push switch (EC11-style, `RotaryEncoder_Switch_MP`) 
+- **1x** 0.91" 128×32 I2C OLED display (`SSD1306`-class)
+- **6x** SK6812 MINI addressable RGB LEDs
+- **Seeed XIAO RP2040** microcontroller 
+- 2-layer PCB, single USB-C connector, multi-part 3D-printed enclosure (black color scheme with a viewing window)
 
 ## Hardware Specs (Hackpad compliance)
 
-| Requirement | Limit | Nouveau-Pad |
-|---|---|---|
-| Microcontroller | Seeed XIAO RP2040 (THT) | ✅ XIAO RP2040 |
-| PCB size | ≤ 100 × 100 mm | ✅ 100 × 70 mm |
-| PCB layers | 2 layers | ✅ 2 layers |
-| Total inputs | ≤ 16 | ✅ 6 (4 switches + encoder + encoder-push) |
-| Encoders | ≤ 2 | ✅ 1 |
-| OLED | ≤ 1 | ✅ 1 |
-| LEDs | ≤ 16 | ✅ 6 |
-| Case | 3D printed only | ✅ multi-part, black, viewing window |
+| Requirement | Limit |
+|---|---|
+| Microcontroller | Seeed XIAO RP2040 (THT) | 
+| PCB size | ≤ 100 × 100 mm |
+| PCB layers | 2 layers |
+| Total inputs | ≤ 16 | 
+| Encoders | ≤ 2 |
+| OLED | ≤ 1 |
+| LEDs | ≤ 16 | 
+| Case | 3D printed only |
 
 ## Images
  <img width="1229" height="842" alt="PCBV333" src="https://github.com/user-attachments/assets/25c86581-de1b-4869-8d85-eb1fb19ad5aa" /> 

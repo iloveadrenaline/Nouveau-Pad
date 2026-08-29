@@ -37,23 +37,22 @@ A 4-key macropad + rotary encoder + OLED + 6x addressable RGB, built on a Seeed 
 
 ## PCB Schematics
  <img width="1229" height="842" alt="PCBV333" src="https://github.com/user-attachments/assets/25c86581-de1b-4869-8d85-eb1fb19ad5aa" /> 
- <img width="1068" height="769" alt="image" src="https://github.com/user-attachments/assets/ce7def84-a32c-44db-a2b4-a9a3448e7165" />
  <img width="1049" height="810" alt="SCHEMATICS" src="https://github.com/user-attachments/assets/5dff3d8b-6fed-48a2-8cf9-0e022569f28f" />
  
 
 ## Bill of Materials (BOM)
 
-| Ref | Part | Qty | Notes |
-|---|---|---|---|
-| U1 | Seeed XIAO RP2040 | 1 | Main MCU, through-hole mount |
-| U2 | 0.91" 128×32 I2C OLED (SSD1306-class) | 1 | Layer/status display |
-| SW1–SW4 | Mechanical switch (`SW_Push`, MX-style) | 4 | Hot-swap or direct solder |
-| SW5 | Rotary encoder w/ push (EC11-style) | 1 | A/B quadrature + switch |
-| D1–D6 | SK6812 MINI-E addressable RGB LED | 6 | Daisy-chained, single data line |
-| — | M3 heatset inserts | 4+ | Case assembly |
-| — | M3 screws | 4+ | Case assembly |
-| — | USB-C cable | 1 | Power + data |
-| — | Keycaps (DSA/XDA) | 4 | From Hackpad kit |
+| Ref | Part | Qty |
+|---|---|---|
+| U1 | Seeed XIAO RP2040 | 1 |
+| U2 | 0.91" 128×32 I2C OLED (SSD1306-class) | 1 |
+| SW1–SW4 | Mechanical switch (`SW_Push`, MX-style) | 4 |
+| SW5 | Rotary encoder w/ push (EC11-style) | 1 |
+| D1–D6 | SK6812 MINI-E addressable RGB LED | 6 |
+| — | M3 heatset inserts | 4+ |
+| — | M3 screws | 4+ |
+| — | USB-C cable | 1 |
+| — | Keycaps (DSA/XDA) | 4 |
 
 ## Pinout
 

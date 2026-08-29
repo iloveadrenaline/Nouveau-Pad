@@ -2,7 +2,7 @@
 
 A 4-key macropad + rotary encoder + OLED + 6x addressable RGB, built on a Seeed XIAO RP2040. Submitted to Hack Club's **Hackpad** You Ship, We Ship program.
 
-![Nouveau-Pad 3D render] <img width="1068" height="769" alt="image" src="https://github.com/user-attachments/assets/359d5414-1abe-48ef-8677-294710a19af4" />
+<img width="1068" height="769" alt="image" src="https://github.com/user-attachments/assets/359d5414-1abe-48ef-8677-294710a19af4" />
 
 
 > Repo: [github.com/iloveadrenaline/Nouveau-Pad](https://github.com/iloveadrenaline/Nouveau-Pad)
@@ -11,7 +11,7 @@ A 4-key macropad + rotary encoder + OLED + 6x addressable RGB, built on a Seeed 
 
 ## Overview
 
-**nouveauXpad** is a compact hackpad-class macropad designed around the Seeed XIAO RP2040. It combines 4 mechanical keys, a rotary encoder with push function, a 0.91" 128×32 I2C OLED for status/layer display, and a 6-LED SK6812 MINI addressable RGB strip for backlighting/feedback — all on a single 2-layer PCB inside the Hackpad size and component limits.
+**Nouveau Pad** is a compact hackpad-class macropad designed around the Seeed XIAO RP2040. It combines 4 mechanical keys, a rotary encoder with push function, a 0.91" 128×32 I2C OLED for status/layer display, and a 6-LED SK6812 MINI addressable RGB strip for backlighting/feedback — all on a single 2-layer PCB inside the Hackpad size and component limits.
 
 ## Features
 
@@ -33,16 +33,13 @@ A 4-key macropad + rotary encoder + OLED + 6x addressable RGB, built on a Seeed 
 | Encoders | ≤ 2 | ✅ 1 |
 | OLED | ≤ 1 | ✅ 1 |
 | LEDs | ≤ 16 | ✅ 6 |
-| Case | 3D printed only | ✅ multi-part, black/red, viewing window |
+| Case | 3D printed only | ✅ multi-part, black, viewing window |
 
 ## Images
-
-| PCB Layout | 3D Render | Schematic |
-|---|---|---|
-| ![PCB] <img width="1229" height="842" alt="PCBV333" src="https://github.com/user-attachments/assets/25c86581-de1b-4869-8d85-eb1fb19ad5aa" />
-| ![Render] <img width="1068" height="769" alt="image" src="https://github.com/user-attachments/assets/ce7def84-a32c-44db-a2b4-a9a3448e7165" />
- | ![Schematic] <img width="1049" height="810" alt="SCHEMATICS" src="https://github.com/user-attachments/assets/5dff3d8b-6fed-48a2-8cf9-0e022569f28f" />
- |
+ <img width="1229" height="842" alt="PCBV333" src="https://github.com/user-attachments/assets/25c86581-de1b-4869-8d85-eb1fb19ad5aa" /> 
+ <img width="1068" height="769" alt="image" src="https://github.com/user-attachments/assets/ce7def84-a32c-44db-a2b4-a9a3448e7165" />
+ <img width="1049" height="810" alt="SCHEMATICS" src="https://github.com/user-attachments/assets/5dff3d8b-6fed-48a2-8cf9-0e022569f28f" />
+ 
 
 ## Bill of Materials (BOM)
 
@@ -93,11 +90,6 @@ Planned firmware behavior:
 Nouveau-Pad/
 ├── README.md
 ├── LICENSE
-├── assets/
-│   ├── render.png
-│   ├── render-top.png
-│   ├── pcb.png
-│   └── schematic.png
 ├── cad/
 │   ├── nouveaupad.step        # full assembly
 │   └── nouveaupad.stl
@@ -128,3 +120,4 @@ This project is released under the MIT License — see [LICENSE](LICENSE).
 - Built for [Hack Club's Hackpad](https://hackpad.hackclub.com) YSWS program
 - MX switch / XIAO / SK6812 footprints from the Hackpad KiCad starter library
 - Designed by [iloveadrenaline](https://github.com/iloveadrenaline)
+- The KMK software was made with minimal use with Antrophic Claude

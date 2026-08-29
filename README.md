@@ -2,7 +2,8 @@
 
 A 4-key macropad + rotary encoder + OLED + 6x addressable RGB, built on a Seeed XIAO RP2040. Submitted to Hack Club's **Hackpad** You Ship, We Ship program.
 
-![Nouveau-Pad 3D render](assets/render.png)
+![Nouveau-Pad 3D render] <img width="1068" height="769" alt="image" src="https://github.com/user-attachments/assets/359d5414-1abe-48ef-8677-294710a19af4" />
+
 
 > Repo: [github.com/iloveadrenaline/Nouveau-Pad](https://github.com/iloveadrenaline/Nouveau-Pad)
 
@@ -38,7 +39,10 @@ A 4-key macropad + rotary encoder + OLED + 6x addressable RGB, built on a Seeed 
 
 | PCB Layout | 3D Render | Schematic |
 |---|---|---|
-| ![PCB](assets/pcb.png) | ![Render](assets/render-top.png) | ![Schematic](assets/schematic.png) |
+| ![PCB] <img width="1229" height="842" alt="PCBV333" src="https://github.com/user-attachments/assets/25c86581-de1b-4869-8d85-eb1fb19ad5aa" />
+| ![Render] <img width="1068" height="769" alt="image" src="https://github.com/user-attachments/assets/ce7def84-a32c-44db-a2b4-a9a3448e7165" />
+ | ![Schematic] <img width="1049" height="810" alt="SCHEMATICS" src="https://github.com/user-attachments/assets/5dff3d8b-6fed-48a2-8cf9-0e022569f28f" />
+ |
 
 ## Bill of Materials (BOM)
 

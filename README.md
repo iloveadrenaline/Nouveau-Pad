@@ -10,7 +10,7 @@ A 4-key  built by me  on a Seeed XIAO RP2040. Submitted to Hack Club's **Hackpad
 
 ## Overview
 
-**Nouveau Pad** is a compact macropad designed around the Seeed XIAO RP2040. It has 4 keys that are programabble into whatever you like , I made this project so I can change my volume with the encoder because I'm tired to go into Windows Control Panel thing , Linux is better btw. Overall , I hope you like the project
+**Nouveau Pad** is a compact macropad designed around the Seeed XIAO RP2040. It has 4 keys that are programmable into whatever you like , I made this project so I can change my volume with the encoder because I'm tired to go into Windows Control Panel thing , Linux is better btw. Overall , I hope you like the project
 **Project link** : https://stardance.hackclub.com/projects/39690
 
 ## Features

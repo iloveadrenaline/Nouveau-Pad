@@ -98,3 +98,4 @@ This project is released under the MIT License -- see in the repo
 - Designed by [iloveadrenaline](https://github.com/iloveadrenaline)
 - The KMK software was made with minimal use with Antrophic Claude
   Peace out
+- Honorable mention to [Tensor]https://github.com/TensorSwe , he guided me and made this project a reality

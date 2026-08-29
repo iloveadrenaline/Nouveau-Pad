@@ -68,8 +68,16 @@ Nouveau-Pad/
 │   ├── nouveaupad.kicad_pcb
 │   └── gerbers/
 └── firmware/
-    ├── README.md
-    └── KMK/
+│   ├── README.md
+│   └── KMK/
+│
+└── production/
+    ├──KMK
+    ├──Case_Bottom.stl
+    ├──Case_Top.stl
+    ├──Gerbers.zip
+    └──Knob.stl
+
 ```
 
 ## Assembly
@@ -82,7 +90,7 @@ Nouveau-Pad/
 
 ## License
 
-This project is released under the MIT License — see [LICENSE](LICENSE).
+This project is released under the MIT License -- see in the repo
 
 ## Credits
 

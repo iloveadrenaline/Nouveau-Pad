@@ -1,6 +1,6 @@
 # Nouveau-Pad ⚡
 
-A 4-key macropad + rotary encoder + OLED + 6x addressable RGB, built on a Seeed XIAO RP2040. Submitted to Hack Club's **Hackpad** You Ship, We Ship program.
+A 4-key  built by me  on a Seeed XIAO RP2040. Submitted to Hack Club's **Hackpad** You Ship, We Ship program.
 
 <img width="1068" height="769" alt="image" src="https://github.com/user-attachments/assets/359d5414-1abe-48ef-8677-294710a19af4" />
 
@@ -10,7 +10,7 @@ A 4-key macropad + rotary encoder + OLED + 6x addressable RGB, built on a Seeed 
 
 ## Overview
 
-**Nouveau Pad** is a compact macropad designed around the Seeed XIAO RP2040. It combines  4 mechanical keys, a rotary encoder with push function, a 0.91" 128×32 I2C OLED, and a 6-LED SK6812 MINI addressable RGB strip and can be very usefull >:) 
+**Nouveau Pad** is a compact macropad designed around the Seeed XIAO RP2040. It has 4 keys that are programabble into whatever you like , I made this project so I can change my volume with the encoder because I'm tired to go into Windows Control Panel thing
 **Project link** : https://stardance.hackclub.com/projects/39690
 
 ## Features

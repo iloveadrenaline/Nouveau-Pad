@@ -5,7 +5,6 @@ A 4-key macropad + rotary encoder + OLED + 6x addressable RGB, built on a Seeed 
 <img width="1068" height="769" alt="image" src="https://github.com/user-attachments/assets/359d5414-1abe-48ef-8677-294710a19af4" />
 
 
-> Repo: [github.com/iloveadrenaline/Nouveau-Pad](https://github.com/iloveadrenaline/Nouveau-Pad)
 
 ---
 

@@ -42,17 +42,15 @@ A 4-key macropad + rotary encoder + OLED + 6x addressable RGB, built on a Seeed 
 
 ## Bill of Materials (BOM)
 
-| Ref | Part | Qty |
-|---|---|---|
-| U1 | Seeed XIAO RP2040 | 1 |
-| U2 | 0.91" 128×32 I2C OLED (SSD1306-class) | 1 |
-| SW1–SW4 | Mechanical switch (`SW_Push`, MX-style) | 4 |
-| SW5 | Rotary encoder w/ push (EC11-style) | 1 |
-| D1–D6 | SK6812 MINI-E addressable RGB LED | 6 |
-| — | M3 heatset inserts | 4+ |
-| — | M3 screws | 4+ |
-| — | USB-C cable | 1 |
-| — | Keycaps (DSA/XDA) | 4 |
+
+1x Seeed XIAO RP2040
+1x 0.91 inch OLED display
+4x MX-Style switches
+1x EC11 Rotary encoder
+6x SK6812 MINI-E LEDs
+4x white blank DSA keycaps
+4x M3 heatset inserts
+4x M3 screws
 
 ## Pinout
 

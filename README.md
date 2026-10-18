@@ -32,13 +32,21 @@ A 4-key  built by me  on a Seeed XIAO RP2040. Submitted to Hack Club's **Hackpad
 
 
 1x Seeed XIAO RP2040
+
 1x 0.91 inch OLED display
+
 4x MX-Style switches
+
 1x EC11 Rotary encoder
+
 6x SK6812 MINI-E LEDs
+
 4x white blank DSA keycaps
+
 4x M3 heatset inserts
+
 4x M3 screws
+
 
 ## Firmware
 The firmware is made in CircuitPython that's all I can tell you , I'm very begginer to this so you can just Google it . Psst I recommend Claude 

@@ -16,9 +16,13 @@ A 4-key  built by me  on a Seeed XIAO RP2040. Submitted to Hack Club's **Hackpad
 ## Features
 
 -4 Mechanical Switches
+
 -0.91 inch oled screen for displaying cool stuff
+
 -An encoder to change the volume because why not
+
 -A window so you can see the pcb because it looks cool
+
 
 
 
